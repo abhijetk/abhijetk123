@@ -2,7 +2,7 @@
 
 if(isset($_POST['first_name'])){
 	echo "<pre>";
-	print_r($_POST);
+//	print_r($_POST);
 }
 ?>
 <!DOCTYPE html>
