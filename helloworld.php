@@ -23,8 +23,8 @@ if(isset($_POST['first_name'])){
   <form action="<?php $_SERVER['PHP_SELF']?>" method="POST">
 	
 	<div class="form-group">
-      <label for="email">full Name:</label>
-      <input type="text" class="form-control" id="_name" placeholder="Enter First Name" name="_name" required value="<?php echo $_POST['_name'] ?? '' ?>" >
+      <label for="email">first Name:</label>
+      <input type="text" class="form-control" id="_name" placeholder="Enter First Name" name="first_name" required value="<?php echo $_POST['firstss_name'] ?? '' ?>" >
     </div>
 	
 
