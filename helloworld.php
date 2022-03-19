@@ -35,7 +35,7 @@ if(isset($_POST['first_name'])){
     </div>
 	<div class="form-group">
       <label for="email">Phone:</label>
-      <input type="tel" class="form-control" id="phone" placeholder="ex:99999999990" name="phone">
+      <input type="tel" class="form-control" id="phone" placeholder="ex:6207499338" name="phone">
     </div>
 	
 	<div class="form-group">
